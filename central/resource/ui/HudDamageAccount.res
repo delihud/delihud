@@ -45,6 +45,6 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
-		"font"			"M0refont36"
+		"font"			"M0refont24"
 	}
 }
